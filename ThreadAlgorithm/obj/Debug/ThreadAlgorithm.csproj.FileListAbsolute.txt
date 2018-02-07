@@ -1,0 +1,6 @@
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\bin\Debug\ThreadAlgorithm.exe.config
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\bin\Debug\ThreadAlgorithm.exe
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\bin\Debug\ThreadAlgorithm.pdb
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\obj\Debug\ThreadAlgorithm.csprojResolveAssemblyReference.cache
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\obj\Debug\ThreadAlgorithm.exe
+D:\coding\Thread\ThreadAlgorithm\ThreadAlgorithm\obj\Debug\ThreadAlgorithm.pdb
