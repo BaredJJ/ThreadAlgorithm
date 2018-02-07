@@ -1,11 +1,11 @@
 ﻿
-using System;
 using System.Collections.Generic;
 using System.Threading;
 
 
 namespace ThreadAlgorithm
 {
+    //TODO Нужно продумать, как убрать излишние проходы по циклу.
     class MyThread
     {
         private readonly Thread _thread;//поток
